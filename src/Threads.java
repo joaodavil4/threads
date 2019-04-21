@@ -71,7 +71,8 @@ public class Threads {
 
         }
 
-        public double multiplica(){
+
+        public void multiplica(){
 
             int k ;
 
@@ -90,6 +91,7 @@ public class Threads {
                         mres[i][j] += m1[i][k] * m2[k][j];
                     }
                 }
+
             }
 
             // VERIFICA SE O RESULTADO DA MULTIPLICACAO ESTA CORRETO
@@ -117,10 +119,16 @@ public class Threads {
                 }
             }
 
-
             // MOSTRA O TEMPO DE EXECUCAO
             System.out.printf("%s%f ", "Tempo de execução ", total);
-            return total;
+
+            // OBTEM O TEMPO
+            fim = System.nanoTime();
+            total = (fim - inicio) / 1000000000.0;
+           
+            // MOSTRA O TEMPO DE EXECUCAO
+            System.out.printf("%s%f ", "Tempo de execu��o 1 ", total);
+
 
         }
 

@@ -32,6 +32,9 @@ public class Threads4 extends Threads2{
         // OBTEM O TEMPO
         long fim = System.nanoTime();
         double total = (fim-inicio)/1000000000.0;
+    
+        System.out.printf("%s%f ", "Tempo de execu��o 4 threads ", total);
+        return;
     }
 
 

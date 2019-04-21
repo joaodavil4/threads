@@ -35,13 +35,12 @@ public class Main {
         v4.padroniza();
         v4.paraleliza();
 
-        Threads4 v8 = new Threads4();
+        Threads8 v8 = new Threads8();
         v8.inicializaMatriz(SIZE);
         v8.populaMatriz();
         v8.populaMatriz2();
         v8.padroniza();
         v8.paraleliza();
 
-        System.out.println(sequencial.multiplica());
     }
 }

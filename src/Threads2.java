@@ -29,6 +29,10 @@ public class Threads2 extends Threads{
         // OBTEM O TEMPO
         long fim = System.nanoTime();
         double total = (fim-inicio)/1000000000.0;
+  
+        // MOSTRA O TEMPO DE EXECUCAO
+        System.out.printf("%s%f ", "Tempo de execu��o 2 threads ", total);
+
     }
 
     private static Thread t1 = new Thread() {
@@ -44,6 +48,7 @@ public class Threads2 extends Threads{
                 }
 
             } catch (Exception e){}
+
 
         }
     };
@@ -65,6 +70,9 @@ public class Threads2 extends Threads{
 
 
 
+            
+
+       
 
 
 
