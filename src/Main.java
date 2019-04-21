@@ -15,7 +15,7 @@ public class Main {
         } while (SIZE % 100 != 0);
 
         Threads sequencial = new Threads();
-        sequencial.inicializaMatriz(10);
+        sequencial.inicializaMatriz(SIZE);
         sequencial.populaMatriz();
         sequencial.populaMatriz2();
         sequencial.padroniza();
