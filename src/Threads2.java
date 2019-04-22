@@ -31,7 +31,7 @@ public class Threads2 extends Threads{
         double total = (fim-inicio)/1000000000.0;
   
         // MOSTRA O TEMPO DE EXECUCAO
-        System.out.printf("%s%f ", "Tempo de execu��o 2 threads ", total);
+        System.out.printf("%s%f ", "\nTempo de execução (2 threads): ", total);
 
     }
 

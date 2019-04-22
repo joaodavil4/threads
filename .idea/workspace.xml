@@ -2,26 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d01e78ea-63e3-4ec9-a851-f8083e2c47cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Sequencial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Sequencial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads2$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads4$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads4$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads4$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads4$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads4$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads4$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads4$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads8$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads8$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads8$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads8$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads8$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads8$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads8$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads8$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads8$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads8$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads8$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads8$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads8$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads8$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads8$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads8$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/threads/Threads8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/threads/Threads8.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Threads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Threads2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads2.java" afterDir="false" />
@@ -43,7 +23,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sequencial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="1190">
               <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
             </state>
           </provider>
@@ -52,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Threads.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="125" column="12" lean-forward="true" selection-start-line="125" selection-start-column="12" selection-end-line="125" selection-end-column="12" />
+            <state relative-caret-position="353">
+              <caret line="126" column="68" selection-start-line="126" selection-start-column="68" selection-end-line="126" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -61,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Threads2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
-              <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+            <state relative-caret-position="345">
+              <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
               <folding>
                 <element signature="e#867#1405#0" expanded="true" />
                 <element signature="e#1404#1405#0" expanded="true" />
@@ -73,20 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Threads4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-407">
-              <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+            <state relative-caret-position="311">
+              <caret line="35" column="68" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
               <folding>
                 <element signature="e#99#554#0" expanded="true" />
                 <element signature="e#553#554#0" expanded="true" />
@@ -104,8 +75,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Threads8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1648">
-              <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+            <state relative-caret-position="187">
+              <caret line="47" column="68" selection-start-line="47" selection-start-column="68" selection-end-line="47" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -131,11 +111,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Sequencial.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Threads2.java" />
         <option value="$PROJECT_DIR$/src/Threads.java" />
+        <option value="$PROJECT_DIR$/src/Threads2.java" />
         <option value="$PROJECT_DIR$/src/Threads4.java" />
         <option value="$PROJECT_DIR$/src/Threads8.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -249,7 +229,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25268096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -259,8 +238,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22772278" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.57567185" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -268,7 +247,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3281471" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -284,7 +263,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>30</line>
+          <line>38</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -301,15 +280,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sequencial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="1190">
           <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Threads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="126" column="68" selection-start-line="126" selection-start-column="68" selection-end-line="126" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Threads2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+        <state relative-caret-position="345">
+          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
           <folding>
             <element signature="e#867#1405#0" expanded="true" />
             <element signature="e#1404#1405#0" expanded="true" />
@@ -319,17 +305,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Threads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="125" column="12" lean-forward="true" selection-start-line="125" selection-start-column="12" selection-end-line="125" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Threads4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-407">
-          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+        <state relative-caret-position="311">
+          <caret line="35" column="68" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
           <folding>
             <element signature="e#99#554#0" expanded="true" />
             <element signature="e#553#554#0" expanded="true" />
@@ -345,15 +324,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Threads8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1648">
-          <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+        <state relative-caret-position="187">
+          <caret line="47" column="68" selection-start-line="47" selection-start-column="68" selection-end-line="47" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        <state relative-caret-position="85">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>

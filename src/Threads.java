@@ -119,15 +119,12 @@ public class Threads {
                 }
             }
 
-            // MOSTRA O TEMPO DE EXECUCAO
-            System.out.printf("%s%f ", "Tempo de execução ", total);
-
             // OBTEM O TEMPO
             fim = System.nanoTime();
             total = (fim - inicio) / 1000000000.0;
            
             // MOSTRA O TEMPO DE EXECUCAO
-            System.out.printf("%s%f ", "Tempo de execu��o 1 ", total);
+            System.out.printf("%s%f ", "Tempo de execução sequencial: ", total);
 
 
         }

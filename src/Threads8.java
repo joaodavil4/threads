@@ -45,7 +45,7 @@ public class Threads8 extends Threads{
         long fim = System.nanoTime();
         double total = (fim-inicio)/1000000000.0;
    
-        System.out.printf("%s%f ", "Tempo de execu��o 8 threads ", total);
+        System.out.printf("%s%f ", "\nTempo de execução (8 threads): ", total);
         return;
     }
 
